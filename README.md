@@ -1,5 +1,5 @@
 # Design-Implementation-of-1-Bit-Full-Adder-using-Cadence-Tools
-Ex No: 04     Design & Implementation of 1 Bit Full Adder Using Cadence EDA Tools   
+Ex No: 05     Design & Implementation of 1 Bit Full Adder Using Cadence EDA Tools   
 
 Aim:
 To design and implement a 1-bit full adder circuit using Cadence EDA tools and to understand its behavior in digital arithmetic operations.
@@ -48,7 +48,7 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
-![IMG-20241019-WA0034](https://github.com/user-attachments/assets/08a8f278-00e2-44d9-8420-a3fcf0586a7e)
+![WhatsApp Image 2024-11-14 at 13 58 36 (2)](https://github.com/user-attachments/assets/3c8ada0e-0abf-445c-b951-a341c9311acb)
 
 
  
@@ -66,7 +66,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0035](https://github.com/user-attachments/assets/dc5f18cf-8e4a-4970-a9bd-ced5c15fcfd9)
+![WhatsApp Image 2024-11-14 at 13 58 33](https://github.com/user-attachments/assets/82381df5-6207-43c1-a1ae-b466a0d74511)
 
 
 
@@ -81,7 +81,7 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![IMG-20241019-WA0036](https://github.com/user-attachments/assets/02d259ca-3a61-46ae-bd0a-64d357310646)
+![WhatsApp Image 2024-11-14 at 13 58 36 (3)](https://github.com/user-attachments/assets/1e73fb0a-a471-4c11-9c5a-ddb30217b28c)
 
  
 Analog simulation by SPECTRE.
@@ -94,12 +94,12 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
-![IMG-20241019-WA0033](https://github.com/user-attachments/assets/3f603cf1-7394-4561-ae07-fbe55615e8be)
+![WhatsApp Image 2024-11-14 at 13 58 35 (1)](https://github.com/user-attachments/assets/7b8a5958-e414-4d68-8c2c-f2fdee075f94)
 
 
 For Transient Analysis Settings and Output
  
-![IMG-20241019-WA0040](https://github.com/user-attachments/assets/384f880f-a1e4-4afa-8302-d7667c2f535b)
+![WhatsApp Image 2024-11-14 at 13 58 33 (2)](https://github.com/user-attachments/assets/8bf1459a-1775-4e0c-a6ce-0de0d657b416)
 
 
  
